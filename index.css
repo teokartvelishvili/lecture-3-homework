@@ -1,0 +1,18 @@
+.part-one{
+    color: green;
+}
+.part-two  span {
+ color: red;   
+}
+.part-three > .background-yellow{
+    background-color: yellow;
+}
+.part-three > .background-pink{
+    background-color: pink;
+}
+.part-four > .background-yellow{
+    color: yellow;
+}
+.part-four > .background-pink{
+    color: pink;
+}
